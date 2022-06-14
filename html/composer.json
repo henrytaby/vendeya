@@ -1,0 +1,13 @@
+{
+    "require": {
+        "dompdf/dompdf": "^1.0",
+        "smarty/smarty": "^3.1",
+        "adodb/adodb-php": "^5.21",
+        "phpmailer/phpmailer": "^6.4",
+        "phpoffice/phpword": "^0.18.3",
+        "phpoffice/phpspreadsheet": "^1.22",
+        "tecnickcom/tcpdf": "^6.3",
+        "intervention/image": "^2.7"
+
+    }
+}
