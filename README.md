@@ -6,7 +6,7 @@ SISTEMA DE INFORMACIÓN DE VENTAS RÁPIDAS
 
 Empresas que necesiten registrar la venta de sus productos de forma rápida y eficiente.
 
-##OBJETIVOS
+## OBJETIVOS
 
 Desarrollar e implementar una plataforma informática de gestión de ventas y productos de pequeñas y medianas empresas en Bolivia.
 

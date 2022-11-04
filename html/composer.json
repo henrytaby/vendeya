@@ -7,7 +7,11 @@
         "phpoffice/phpword": "^0.18.3",
         "phpoffice/phpspreadsheet": "^1.22",
         "tecnickcom/tcpdf": "^6.3",
-        "intervention/image": "^2.7"
+        "intervention/image": "^2.7",
+        "illuminate/database": "^8.83",
+        "illuminate/events": "^8.83",
+        "raveren/kint": "^1.2",
+        "vlucas/phpdotenv": "^5.4"
 
     }
 }
